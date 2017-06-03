@@ -1,4 +1,4 @@
-package com.nojes.javalessons;
+package com.nojes.lesson1;
 
 public class Main {
 
